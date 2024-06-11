@@ -5,7 +5,7 @@ Name: Jang Yoon-seo\
 Date of Birth: November 7, 1999 (25 years old)
 
 ### **Education**:
-School: Jeonbuk National University\
+School: Jeonbuk National University(entrance : 2019, February)\
 Major: Statistics (Minor: Mathematics)
 
 ### **Academic Information**:
