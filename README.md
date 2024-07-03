@@ -17,7 +17,7 @@ Teaching Assistant: 통계적사고와사회 (Statistical Thinking and Society) 
 빅데이터사업단 Supporters: Subject Development Researcher (twice: 통계적사고와사회 and Introduction to Statistics, once each)
 
 ### **Academic Achievements**:
-All 21 credits with A+ three times(22-2,23-1,24-1\
+All 21 credits with A+ three times(22-2,23-1,24-1)\
 JBNU President's Award for Academic Excellence, 2023\
 Full Scholarship, Spring 2024
 
