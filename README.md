@@ -17,7 +17,8 @@ Teaching Assistant: 통계적사고와사회 (Statistical Thinking and Society) 
 빅데이터사업단 Supporters: Subject Development Researcher (twice: 통계적사고와사회 and Introduction to Statistics, once each)
 
 ### **Academic Achievements**:
-All 21 credits with A+ three times(22-2, 23-1, 24-1)\
+All 21 credits with A+ twice(22-2, 23-1)\
+All 12 credits with A+ (24-1)\
 JBNU President's Award for Academic Excellence, 2023\
 Full Scholarship, Spring 2024
 
@@ -25,4 +26,4 @@ Full Scholarship, Spring 2024
 Email: tjdbswkd4321@naver.com
 
 ### **Introduction**:
-I am currently studying Mathematical Statistics  and Regression Analysis to prepare for graduate school in Statistics. While I am not yet focused on a specific field within Statistics, I am interested in both theoretical and applied aspects. After the entrance exam, I plan to study Mathematical Analysis and Advanced Linear Algebra and participate in a data analysis contest. You can view my study materials on my Naver blog(https://blog.naver.com/tjdbswkd4321). 
+I am currently studying Mathematical Statistics and Regression Analysis to prepare for graduate school in Statistics. While I am not yet focused on a specific field within Statistics, I am interested in both theoretical and applied aspects. After the entrance exam, I plan to study Mathematical Analysis and Advanced Linear Algebra and participate in a data analysis contest. You can view my study materials on my Naver blog(https://blog.naver.com/tjdbswkd4321). 
