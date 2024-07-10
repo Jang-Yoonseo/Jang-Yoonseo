@@ -9,7 +9,7 @@ School: Jeonbuk National University(entrance : 2019, February)\
 Major: Statistics (Minor: Mathematics)
 
 ### **Academic Information**:
-GPA: 4.27 (4.45 for major)\
+GPA: 4.23 (4.45 for major)\
 English Qualification: New TEPS (362)
 
 ### **Curriculum Vitae**:
