@@ -26,4 +26,4 @@ Full Scholarship, Spring 2024
 Email: tjdbswkd4321@naver.com
 
 ### **Introduction**:
-I am a curious student with a strong interest in both the theoretical and applied aspects of Statistics. You can watch my study materials on my Naver blog(https://blog.naver.com/tjdbswkd4321).(Writed in Korean)
+I am a curious student with a strong interest in both the theoretical and applied aspects of Statistics. You can watch my study materials (Writed in Korean) on my Naver blog(https://blog.naver.com/tjdbswkd4321)
