@@ -5,8 +5,8 @@ Name: Jang Yoon-seo\
 Date of Birth: November 7, 1999 (25 years old)
 
 ### **Education**:
-School: Jeonbuk National University(entrance : 2019, February)\
-Major: Statistics (Minor: Mathematics)
+B.S. in Statistics, Jeonbuk National University (2019–2025)
+Incoming Master Course in Statistics, Seoul National University (2025 ~ )
 
 ### **Academic Information**:
 GPA: 4.23 (4.45 for major)\
@@ -26,4 +26,4 @@ Full Scholarship, Spring 2024
 Email: tjdbswkd4321@naver.com
 
 ### **Introduction**:
-I am currently studying Mathematical Statistics and Regression Analysis to prepare for graduate school in Statistics. While I am not yet focused on a specific field within Statistics, I am interested in both theoretical and applied aspects. After the entrance exam, I plan to study Mathematical Analysis and Advanced Linear Algebra and participate in a data analysis contest. You can view my study materials on my Naver blog(https://blog.naver.com/tjdbswkd4321). 
+I am a curious student with a strong interest in both the theoretical and applied aspects of Statistics. You can watch my study materials on my Naver blog(https://blog.naver.com/tjdbswkd4321).(Writed in Korean)
