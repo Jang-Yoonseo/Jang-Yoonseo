@@ -6,7 +6,7 @@ Date of Birth: November 7, 1999 (25 years old)
 
 ### **Education**:
 B.S. in Statistics, Jeonbuk National University (2019–2025)\
-Incoming Master Course in Statistics, Seoul National University (2025 ~ )
+M.S. in Statistics Candidate, Seoul National University (2025 ~ )
 
 ### **Academic Information**:
 GPA: 4.23 (4.45 for major)\
