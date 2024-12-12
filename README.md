@@ -14,7 +14,7 @@ English Qualification: New TEPS (362)
 
 ### **Curriculum Vitae**:
 Teaching Assistant: 통계적사고와사회 (Statistical Thinking and Society) - once, Introduction to Statistics - once\
-빅데이터사업단 Supporters: Subject Development Researcher (twice: 통계적사고와사회 and Introduction to Statistics, once each)
+빅데이터사업단 Supporters: Subject Development Researcher (twice: 통계적사고와사회 and An Introduction to Statistics, once each)
 
 ### **Academic Achievements**:
 All 21 credits with A+ twice(22-2, 23-1)\
