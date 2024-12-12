@@ -26,4 +26,4 @@ Full Scholarship, Spring 2024
 Email: tjdbswkd4321@naver.com
 
 ### **Introduction**:
-You can watch my study materials (Writed in Korean) on my Naver blog(https://blog.naver.com/tjdbswkd4321)
+You can watch my study materials (Written in Korean) on my Naver blog(https://blog.naver.com/tjdbswkd4321)
