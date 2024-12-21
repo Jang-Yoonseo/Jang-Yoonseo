@@ -1,7 +1,7 @@
 ## About Me:
 
 ### **Personal Inforamation**:
-Name: Jang Yoon-seo
+Name: Jang Yoonseo
 
 ### **Education**:
 B.S. in Statistics, Jeonbuk National University (2019–2025)\
