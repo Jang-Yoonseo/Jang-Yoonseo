@@ -1,11 +1,11 @@
 ## About Me:
 
 ### **Personal Inforamation**:
-Name: Jang Yoon-seo\
+Name: Jang Yoon-seo
 
 ### **Education**:
 B.S. in Statistics, Jeonbuk National University (2019–2025)\
-M.S. in Statistics Candidate, Seoul National University (2025 ~ )
+M.S. Candidate in Statistics, Seoul National University (2025 ~ )
 
 ### **Academic Information**:
 GPA: 4.23 (4.45 for major)\
@@ -23,6 +23,3 @@ Full Scholarship, Spring 2024
 
 ### **Contact Information**:
 Email: tjdbswkd4321@naver.com
-
-### **Introduction**:
-You can watch my study materials (Written in Korean) on my Naver blog(https://blog.naver.com/tjdbswkd4321)
