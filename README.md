@@ -4,7 +4,7 @@
 Name: Jang Yoonseo
 
 ### **Education**:
-B.S. in Statistics, Jeonbuk National University (2019–2025, Graduated in top seat (수석 졸업)\
+B.S. in Statistics, Jeonbuk National University (2019–2025, Graduated in top seat (수석 졸업))\
 M.S. Candidate in Statistics, Seoul National University (2025 ~ )
 
 ### **Curriculum Vitae**:
