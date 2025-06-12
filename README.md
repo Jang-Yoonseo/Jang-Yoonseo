@@ -1,4 +1,4 @@
-I'm Jang Yoonseo.
+Hello! I'm Jang Yoonseo.
 
 B.S. in Statistics, Jeonbuk National University, 2025. Graduated in top seat)\
 M.S. Student in Statistics (Advisor : Prof. Byeoung U. Park) , Seoul National University (2025 ~ )
